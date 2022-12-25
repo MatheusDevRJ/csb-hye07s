@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://matheusdevrj.github.io/csb-hye07s/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://matheusdevrj.github.io/csb-hye07s/static/js/main.392b05c5.chunk.js",
+    "main.js.map": "https://matheusdevrj.github.io/csb-hye07s/static/js/main.392b05c5.chunk.js.map",
+    "runtime-main.js": "https://matheusdevrj.github.io/csb-hye07s/static/js/runtime-main.94e973e2.js",
+    "runtime-main.js.map": "https://matheusdevrj.github.io/csb-hye07s/static/js/runtime-main.94e973e2.js.map",
+    "static/js/2.a53b1fde.chunk.js": "https://matheusdevrj.github.io/csb-hye07s/static/js/2.a53b1fde.chunk.js",
+    "static/js/2.a53b1fde.chunk.js.map": "https://matheusdevrj.github.io/csb-hye07s/static/js/2.a53b1fde.chunk.js.map",
+    "index.html": "https://matheusdevrj.github.io/csb-hye07s/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://matheusdevrj.github.io/csb-hye07s/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a53b1fde.chunk.js.LICENSE.txt": "https://matheusdevrj.github.io/csb-hye07s/static/js/2.a53b1fde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94e973e2.js",
+    "static/js/2.a53b1fde.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.392b05c5.chunk.js"
+  ]
+}
